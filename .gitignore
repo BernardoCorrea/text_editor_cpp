@@ -1,0 +1,31 @@
+# Binários de compilação
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+*.dylib
+
+# Arquivos executáveis
+kilo
+
+# Arquivos de depuração
+*.log
+core
+
+# Diretórios comuns de build
+build/
+bin/
+obj/
+
+# Arquivos e pastas do VS Code
+.vscode/
+
+# Arquivos temporários
+*~
+*.swp
+*.tmp
+
+# Backup de editores
+*.bak
